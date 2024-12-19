@@ -88,7 +88,8 @@ Install all required dependencies:
 pip install -r requirements.txt
 ```
 Live Link-> https://emotion-text-classification-nlp.streamlit.app/
-Web App Preview
+<br>
+<br>Web App Preview<br>
 ![image](https://github.com/user-attachments/assets/e71c127a-79e1-4f0e-9d1c-67919e30cbaf)
 
 
